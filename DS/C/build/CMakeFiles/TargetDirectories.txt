@@ -1,0 +1,3 @@
+/home/avgarchuser/Documents/dev404/DS/C/build/CMakeFiles/main.dir
+/home/avgarchuser/Documents/dev404/DS/C/build/CMakeFiles/edit_cache.dir
+/home/avgarchuser/Documents/dev404/DS/C/build/CMakeFiles/rebuild_cache.dir

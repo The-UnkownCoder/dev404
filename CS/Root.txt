@@ -1,0 +1,41 @@
+1. Pointer :
+	1. Initialization
+		- data_type  variable = value;
+		- data_type pointer = &var;
+	2. Value
+		- `*`pointer = value;
+		-  `**`pointer = &pointer;
+	3. Array parameters and pointer
+		- Pointer passes the addresses of arr to a function not its size;
+		- So the size of array must be explicitly passed to the function;
+	4. Pointer arithmetic
+		- pointer++;
+		- ++pointer;
+		- pointer--;
+		- --pointer;
+		- pointer+value;
+		- pointer-value;
+		- pointer_1-pointer_2;
+	5. Void pointer
+		- No associated type;
+		- void`*` pointer;
+		- VP can be assigned to pointer of any type and vice versa;
+		- Internal implementation : #define NULL (void*)0;
+	6. Null pointer
+	7. Pointer to pointer
+		- Constant pointer :
+		- Pointer to const : 
+
+2. Array :
+
+3. Struct :
+	1. Structure
+		- struct struct_name {
+		- data_type var_1;
+		- data_type var_2;
+		- };
+	2. Initialization
+		- struct struct_name {
+		- data_type var_1;
+		- data_type var_2;
+		- };
